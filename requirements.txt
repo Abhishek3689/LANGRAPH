@@ -1,0 +1,17 @@
+pandas
+numpy
+langchain-community
+langchain
+langgraph
+langchain-core
+streamlit
+# Environment Variable Management
+python-dotenv
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentencepiece
+torch
+bitsandbytes
+accelerate>=0.26.0
